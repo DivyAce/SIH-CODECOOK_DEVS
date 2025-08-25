@@ -41,6 +41,8 @@ Simply open Login.html in your browser to view the prototype.
 
 (Optional) If backend is configured with PHP & MongoDB, host it on XAMPP/LAMP server to enable full chatbot + database functionality.
 
+![Uploading Screenshot 2025-08-25 101307.png…]()
+
 
 👨‍👩‍👧 Team – CodeCook Devs
 This project was built collaboratively by our team during Smart India Hackathon 2024:
