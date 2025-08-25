@@ -41,9 +41,6 @@ Simply open Login.html in your browser to view the prototype.
 
 (Optional) If backend is configured with PHP & MongoDB, host it on XAMPP/LAMP server to enable full chatbot + database functionality.
 
-![ParkAi Logo](./<img width="1916" height="882" alt="Screenshot 2025-08-25 101307" src="https://github.com/user-attachments/assets/aa257f46-1a81-4b53-b7ec-35f1b565d1db" />
-) 
-
 👨‍👩‍👧 Team – CodeCook Devs
 This project was built collaboratively by our team during Smart India Hackathon 2024:
 
