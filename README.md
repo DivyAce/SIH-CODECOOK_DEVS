@@ -47,17 +47,11 @@ This project was built collaboratively by our team during Smart India Hackathon 
 
 Divyanshu Singh – Chatbot Developer & UI/UX Enhancements
 
-Rithvik – Frontend Design & Integration
-
-Saumya – Backend Development (PHP & MongoDB)
+Rithvik(https://github.com/rithvik-rana)– Frontend Design & Integration
 
 📜 License
 This project is for educational purposes (Smart India Hackathon 2024).
 Feel free to use and modify with proper credits.
 
 ---
-
-👉 Just replace `USERNAME` with the actual GitHub usernames of **Rithvik** and **Saumya**.  
-
-Do you also want me to create a **short “portfolio-friendly” version** (without too many technical details) that you can paste directly on **LinkedIn** or your **resume projects section**?
 
