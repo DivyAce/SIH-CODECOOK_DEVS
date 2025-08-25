@@ -41,8 +41,6 @@ Simply open Login.html in your browser to view the prototype.
 
 (Optional) If backend is configured with PHP & MongoDB, host it on XAMPP/LAMP server to enable full chatbot + database functionality.
 
-📷 Screenshots
-Login Page	Chatbot	Dashboard
 
 👨‍👩‍👧 Team – CodeCook Devs
 This project was built collaboratively by our team during Smart India Hackathon 2024:
@@ -56,3 +54,10 @@ Saumya – Backend Development (PHP & MongoDB)
 📜 License
 This project is for educational purposes (Smart India Hackathon 2024).
 Feel free to use and modify with proper credits.
+
+---
+
+👉 Just replace `USERNAME` with the actual GitHub usernames of **Rithvik** and **Saumya**.  
+
+Do you also want me to create a **short “portfolio-friendly” version** (without too many technical details) that you can paste directly on **LinkedIn** or your **resume projects section**?
+
